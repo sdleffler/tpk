@@ -1,0 +1,10 @@
+/target/
+**/*.rs.bk
+
+Cargo.lock
+
+# elm-package files
+elm-stuff/
+
+# elm-repl generated files
+repl-temp-*
